@@ -1,26 +1,24 @@
-### Olá! sou Isaac D. e seja bem vindo aos meus repositório :] 👋
-<div align="center">
-  <a href="https://github.com/Ithaizack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ithaizack&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ithaizack&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/c68259761bb0fa852b3b76973618a54a.gif">
-</div>
+"𝗔𝗼𝗽𝗮" 𝗛𝗶 𝗗𝗲𝘃𝘀!👋
 
-##
- 
+<h6>
+  Eai devs! Prazer em estarem aqui, sou Isaac Douglas desenvolvedor focado em Web, porém com muito entusiamos e aprendendo Mobile com React native e IoT com javascript Utilizando NodeMcu. Grande amante de javascript/Typescript :].
+</h6>
+<h6>
+  Espero poder está contribuindo e evoluindo juntamente com a comunidade Github, não possuo cursos nem faculdade na área, porém aprendo por conta própria com vídeos e eventos gratuito.
+</h6>
+
+𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
+
 <div> 
   <a href="https://instagram.com/ithai_zack" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isaacabreu499i@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/isaac-douglas-b0a7201b2/](https://www.linkedin.com/in/isaac-douglas-b0a7201b2/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
+</div>
+
+  <br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ithaizack&hide_progress=true)](https://github.com/Ithaizack/github-readme-stats)
+
   ![Snake animation](https://github.com/Ithaizack/Ithaizack/blob/output/github-contribution-grid-snake.svg)
  
-</div>
